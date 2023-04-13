@@ -8,13 +8,7 @@ export const About = () => {
                 <div className="">
                     <h2 className="text-2xl font-medium">About Us</h2>
                     <p className="text-lg">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt,
-                    beatae! Doloribus fuga aperiam magni ipsum repellat voluptates
-                    itaque error, atque, exercitationem fugit ab, modi ut voluptatum
-                    sequi ad eum! Rerum! Lorem ipsum dolor sit amet consectetur
-                    adipisicing elit. Minus quia suscipit deserunt, neque nemo veniam
-                    adipisci deleniti culpa dolor dolores omnis, rem veritatis assumenda
-                    eaque dignissimos ut, nam debitis numquam!
+                    As an on-demand food delivery application allows our customers to get delivered their ordered foods in the convenience of their home, office or whereever they are. We also have Reward Point System, and Native App for Restaurant owners, Drivers (with Map Integration) etc.
                     </p>
                 </div>
                 <div className="flex items-center justify-center">
